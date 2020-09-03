@@ -168,6 +168,7 @@ aside div img {
   main,
   aside {
     padding: 5.55vw;
+    padding-bottom: 10rem;
   }
   .hero__logo img {
     height: 8.33vw;
