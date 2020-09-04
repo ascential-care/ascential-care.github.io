@@ -105,8 +105,8 @@ main {
           justify-content: space-between;
 }
 
-.hero__logo img {
-  height: 2.6vw;
+.hero__spacer {
+  min-height: 4.16vw;
   width: auto;
 }
 
@@ -170,8 +170,8 @@ aside div img {
     padding: 5.55vw;
     padding-bottom: 10rem;
   }
-  .hero__logo img {
-    height: 8.33vw;
+  .hero__spacer {
+    height: 22.22vw;
   }
   .hero__content h1 {
     font-size: 6.67vw;
@@ -201,8 +201,8 @@ aside div img {
   aside {
     padding: 6rem;
   }
-  .hero__logo img {
-    height: 5rem;
+  .hero__spacer {
+    min-height: 8rem;
   }
   .hero__content h1 {
     font-size: 8rem;

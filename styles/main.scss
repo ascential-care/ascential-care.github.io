@@ -95,11 +95,9 @@ main {
   justify-content: space-between;
 }
 
-.hero__logo {
-  
-    height: 2.6vw; 
-    width: auto;
-  
+.hero__spacer {
+  min-height: 4.16vw;
+  width: auto;
 }
 
 .hero__content {
@@ -160,10 +158,8 @@ aside {
     padding-bottom: 10rem;
   }
 
-  .hero__logo {
-    
-      height: 8.33vw;
-    
+  .hero__spacer {
+    height: 22.22vw;
   }
 
   .hero__content {
@@ -207,10 +203,8 @@ aside {
     padding: 6rem;
   }
 
-  .hero__logo {
-    
-      height: 5rem;
-    
+  .hero__spacer {
+    min-height: 8rem;
   }
 
   .hero__content {
